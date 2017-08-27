@@ -1,8 +1,8 @@
 # Travis CI configuration file.
 # @link https://travis-ci.org/
 
-# For use with Stupid Easy Paleo's latest WordPress theme
-# @link https://github.com/glasgowshipyard/stupid-easy-paleo
+# For use with a blank WordPress theme based on _S
+# @link https://github.com/glasgowshipyard/blank
 # Declare project language and PHP versions to test against.
 # @link http://about.travis-ci.org/docs/user/languages/php/
 language: php
